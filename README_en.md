@@ -1,7 +1,11 @@
 ![IDrone Base](images/IDrone-Base.jpg)
 
+<div align = "center">
+
 # College of Mechanics and Engineering Science, Department of Aeronautics and Astronautics, Peking University
 # IDrone Intelligent Aviation Team
+
+</div>
 
 The IDrone team at the Department of Aeronautics and Astronautics, School of Mechanics and Engineering Science, Peking University, is dedicated to the research and application of multi-UAV (Unmanned Aerial Vehicle) systems. Our research spans interdisciplinary fields, including the design, implementation, experimental evaluation, and real-world application of complex UAV systems. 
 
