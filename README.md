@@ -13,3 +13,7 @@
 如需了解我们的工作，请访问 [文档](https://idronepku.github.io/)。
 
 如果您对我们的研究感兴趣并希望和我们交流，请发送邮件到 [团队联系人](morgenkornblume@gmail.com)。
+
+## 致谢
+
+[![Contributors](https://contrib.rocks/image?repo=IDronePKU/IDronePKU.github.io)](https://github.com/IDronePKU/IDronePKU.github.io/graphs/contributors)
